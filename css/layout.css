@@ -769,7 +769,7 @@ option{
     text-transform: uppercase;
     line-height: 39px;
     font-size: 13px;
-    color: #3a3a3a;
+  
     font-weight: bold;
     text-shadow: none;
     font-family: 'PT Sans', Arial, sans-serif;
@@ -777,7 +777,10 @@ option{
     -webkit-border-radius: 3px;
     border-radius: 3px;
 }
-
+.btn{
+    background-color: #3eb755;
+    color: #3eb755;
+}
 #contact input[type="button"].btn,
 #contact input[type="submit"].btn,
 #contact input[type="reset"].btn,

@@ -213,26 +213,27 @@
     <div id="contact">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61410.21322313829!2d-16.269625418589193!3d15.849325523410002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xeeab46ed34be149%3A0xab96c220de8e6fc8!2sBarale-Ndiaye!5e0!3m2!1sfr!2ssn!4v1638056599847!5m2!1sfr!2ssn" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
      <form id="contact-form" method="post" action="#">
-            <div class="container">
-                <div class="base">
+            <div class="container" >
+                <div class="base" style="background-color: gainsboro;">
                     <h3>Restons en contact</h3>
                     <h6>Tel : 221 77-832-64-08 Email : <a style="color: rgb(9, 167, 9);" href="mailto:modou2015diop@gmail.com">kals.fall11@gmail.com </a></h6>
 
                     <h6>Facebook : <a style="color: rgb(9, 167, 9);" href="mailto:modou2015diop@gmail.com">Youtube Servir Barale </a></h6>
 
                     <h6>Youtube : <a style="color: rgb(9, 167, 9);" href="modou2015diop@gmail.com">face book servir barale </a></h6>
-                    <h6>Adresse : BARALE NDIAYE</h6>
+                    <!--<h6>Adresse : BARALE NDIAYE</h6>
                     <input type="text" name="name" maxlength="80" placeholder="Nom (obligatoire)" />
                     <input type="text" name="email" maxlength="255" placeholder="Email (obligatoire)" />
                     <input type="text" name="subject" placeholder="Objet" />
                     <textarea name="message" placeholder="Message (obligatoire)"></textarea>
-                    <input type="submit" name="submit" value="Envoyer le message" class="btn" />
-                    <div class="data-status" style="margin-top:20px; display:none;"></div>
-                    <!-- data submit status -->
+                    <input type="submit" name="submit" value="Envoyer le message"  class="btn" />
+                    <div class="data-status" style="margin-top:20px; display:none;"></div>-->
+                  <!-- data submit status -->
                 </div>
             </div>
 
         </form>
+    
 
 
 
