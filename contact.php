@@ -218,9 +218,9 @@
                     <h3>Restons en contact</h3>
                     <h6>Tel : 221 77-832-64-08 Email : <a style="color: rgb(9, 167, 9);" href="mailto:modou2015diop@gmail.com">kals.fall11@gmail.com </a></h6>
 
-                    <h6>Facebook : <a style="color: rgb(9, 167, 9);" href="mailto:modou2015diop@gmail.com">Youtube Servir Barale </a></h6>
+                    <h6>Facebook : <a style="color: rgb(9, 167, 9);" href="https://www.facebook.com/servir.barale">Youtube Servir Barale </a></h6>
 
-                    <h6>Youtube : <a style="color: rgb(9, 167, 9);" href="modou2015diop@gmail.com">face book servir barale </a></h6>
+                    <h6>Youtube : <a style="color: rgb(9, 167, 9);" href=" https://youtube.com/channel/UC6lbpBS7njnd_yjwA2vlfaQ">face book servir barale </a></h6>
                     <!--<h6>Adresse : BARALE NDIAYE</h6>
                     <input type="text" name="name" maxlength="80" placeholder="Nom (obligatoire)" />
                     <input type="text" name="email" maxlength="255" placeholder="Email (obligatoire)" />
