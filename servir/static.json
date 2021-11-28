@@ -1,6 +1,6 @@
 {
     "routes": {
-        "root":"servir"
+        "root":"servir",
         "/**": "index.html"
     }
 }
