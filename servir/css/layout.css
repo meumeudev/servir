@@ -200,7 +200,11 @@ a:hover {
 #top ul.nav li a:hover i {
     color: #404040;
 }
-
+option{
+    color: green;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 #top select {
     width: 60%;
     margin-right: 20px;
@@ -210,7 +214,7 @@ a:hover {
     -moz-border-radius: 0px;
     -webkit-border-radius: 0px;
     border-radius: 0px;
-    border: 1px solid #EBEBEB;
+    border: 1px solid rgb(92, 146, 11);
 }
 
 /* ========================= 3. Intro ========================= */
@@ -626,7 +630,7 @@ a:hover {
     text-align: right;
     -moz-box-shadow: inset 1px -1px 2px #E6E6E6;
     -webkit-box-shadow: inset 1px -1px 2px #E6E6E6;
-    box-shadow: inset 1px -1px 2px ##E6E6E6;
+    box-shadow: inset 1px -1px 2px #E6E6E6;
 }
 
 /* ========================= 9. Follow ========================= */
